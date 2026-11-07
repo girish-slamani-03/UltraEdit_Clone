@@ -12,24 +12,16 @@ This is a **frontend-only static project**. No JavaScript or backend has been us
 
 ## ✨ Features
 
-- Responsive navigation bar
-- UltraEdit-style download section
-- Windows, macOS, and Linux download cards
-- Download buttons connected to the original UltraEdit website
-- Windows SHA256 information
-- Promotional offer section
-- "What you can test during the free trial" feature section
+- Responsive navigation bar and footer
+- UltraEdit style download section
+- Download cards for Windows, macOS, and Linux
+- Download buttons linked to the official UltraEdit website
+- Promotional offer and free trial information sections
 - Feature cards with images and GIFs
-- UltraEdit FAQ section
-- Responsive FAQ layout
-- EXE or MSI information section
-- Free trial information
-- Responsive footer
-- Company, Products, Support, and Legal sections
+- UltraEdit FAQ section with responsive layout
+- EXE and MSI installer information section
 - Newsletter signup UI
-- Hover effects on navigation items and buttons
-- Responsive layouts for desktop, tablet, and mobile screens
-- External links for functional buttons
+- Hover effects and responsive layouts for desktop, tablet, and mobile screens
 
 ## 🛠️ Technologies Used
 
